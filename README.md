@@ -1,3 +1,5 @@
 # testes2
 testando
-criei outra branch
+=======
+lembrei do comando git status
+lembrei do comando git commit
